@@ -4,171 +4,171 @@ translate ko strings:
 
     # game/screens.rpy:380
     old "History"
-    new ""
+    new "히스토리"
 
     # game/screens.rpy:381
     old "Skip"
-    new ""
+    new "스킵"
 
     # game/screens.rpy:382
     old "Save"
-    new ""
+    new "저장"
 
     # game/screens.rpy:383
     old "Load"
-    new ""
+    new "불러오기"
 
     # game/screens.rpy:385
     old "Hide UI"
-    new ""
+    new "UI 숨기기"
 
     # game/screens.rpy:388
     old "Settings"
-    new ""
+    new "설정"
 
     # game/screens.rpy:389
     old "Main Menu"
-    new ""
+    new "메인 메뉴"
 
     # game/screens.rpy:390
     old "Exit"
-    new ""
+    new "종료"
 
     # game/screens.rpy:441
     old "New Game"
-    new ""
+    new "새 게임"
 
     # game/screens.rpy:446
     old "Save Game"
-    new ""
+    new "게임 저장"
 
     # game/screens.rpy:448
     old "Load Game"
-    new ""
+    new "게임 불러오기"
 
     # game/screens.rpy:452
     old "End Replay"
-    new ""
+    new "리플레이 종료"
 
     # game/screens.rpy:465
     old "Quit"
-    new ""
+    new "나가기"
 
     # game/screens.rpy:630
     old "Return"
-    new ""
+    new "돌아가기"
 
     # game/screens.rpy:710
     old "About"
-    new ""
+    new "정보"
 
     # game/screens.rpy:717
     old "Version [config.version!t]\n"
-    new ""
+    new "버전 [config.version!t]\n"
 
     # game/screens.rpy:723
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new ""
+    new "{a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only]로 제작되었습니다.\n\n[renpy.license!t]"
 
     # game/screens.rpy:817
     old "{#file_time}%A, %B %d %Y, %H:%M"
-    new ""
+    new "{#file_time}%Y년 %m월 %d일 %A, %H:%M"
 
     # game/screens.rpy:817
     old "empty slot"
-    new ""
+    new "빈 슬롯"
 
     # game/screens.rpy:914
     old "Display"
-    new ""
+    new "디스플레이"
 
     # game/screens.rpy:915
     old "Window"
-    new ""
+    new "창 모드"
 
     # game/screens.rpy:916
     old "Fullscreen"
-    new ""
+    new "전체 화면"
 
     # game/screens.rpy:920
     old "Rollback Side"
-    new ""
+    new "롤백 위치"
 
     # game/screens.rpy:921
     old "Disable"
-    new ""
+    new "비활성화"
 
     # game/screens.rpy:922
     old "Left"
-    new ""
+    new "왼쪽"
 
     # game/screens.rpy:923
     old "Right"
-    new ""
+    new "오른쪽"
 
     # game/screens.rpy:928
     old "Unseen Text"
-    new ""
+    new "보지 않은 텍스트"
 
     # game/screens.rpy:929
     old "After Choices"
-    new ""
+    new "선택 후"
 
     # game/screens.rpy:943
     old "Text Speed"
-    new ""
+    new "텍스트 속도"
 
     # game/screens.rpy:948
     old "Auto-Forward Time"
-    new ""
+    new "자동 진행 시간"
 
     # game/screens.rpy:955
     old "Music Volume"
-    new ""
+    new "음악 볼륨"
 
     # game/screens.rpy:962
     old "Sound Volume"
-    new ""
+    new "효과음 볼륨"
 
     # game/screens.rpy:968
     old "Test"
-    new ""
+    new "테스트"
 
     # game/screens.rpy:972
     old "Voice Volume"
-    new ""
+    new "음성 볼륨"
 
     # game/screens.rpy:983
     old "Mute All"
-    new ""
+    new "전체 음소거"
 
     # game/screens.rpy:994
     old "Language"
-    new ""
+    new "언어"
 
     # game/screens.rpy:1113
     old "The dialogue history is empty."
-    new ""
+    new "대화 기록이 없습니다."
 
     # game/screens.rpy:1445
     old "OK"
-    new ""
+    new "확인"
 
     # game/screens.rpy:1448
     old "Cancel"
-    new ""
+    new "취소"
 
     # game/screens.rpy:1516
     old "Yes"
-    new ""
+    new "예"
 
     # game/screens.rpy:1517
     old "No"
-    new ""
+    new "아니오"
 
     # game/screens.rpy:1570
     old "Skipping"
-    new ""
+    new "스킵 중"
 
 # TODO: Translation updated at 2025-07-13 18:03
 
@@ -176,5 +176,5 @@ translate ko strings:
 
     # game/screens.rpy:441
     old "Please enter your name"
-    new ""
+    new "이름을 입력하세요"
 
