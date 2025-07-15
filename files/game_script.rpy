@@ -4,2461 +4,2461 @@
 translate ko game_script_291cd73e:
 
     # "It's the day of the festival."
-    ""
+    "오늘은 축제 날이다."
 
 # game/game_script.rpy:16
 translate ko game_script_f55f58cd:
 
     # "Of all days, I expected this to be the one where I'd be walking to school with Sayori."
-    ""
+    "하필 오늘, 사요리랑 같이 학교에 갈 줄 알았는데."
 
 # game/game_script.rpy:17
 translate ko game_script_5f35e367:
 
     # "But Sayori isn't answering her phone."
-    ""
+    "근데 사요리가 전화를 안 받는다."
 
 # game/game_script.rpy:18
 translate ko game_script_f01b5f50:
 
     # "I consider going to her house to wake her up."
-    ""
+    "직접 집에 가서 깨워야 하나 고민한다."
 
 # game/game_script.rpy:19
 translate ko game_script_bf20ec7b:
 
     # "It's not a big deal to at least wait for her, or help her wake up."
-    ""
+    "적어도 기다려주거나 깨워주는 건 별일도 아니잖아."
 
 # game/game_script.rpy:20
 translate ko game_script_e601aa4e:
 
     # "Even the simple gesture of walking her to school makes her really happy."
-    ""
+    "같이 학교 가는 것만으로도 사요리는 엄청 좋아하니까."
 
 # game/game_script.rpy:21
 translate ko game_script_70e7cabf:
 
     # "Besides..."
-    ""
+    "게다가..."
 
 # game/game_script.rpy:22
 translate ko game_script_68430306:
 
     # "I told her yesterday that things will be the same as they always have been."
-    ""
+    "어제도 변함없을 거라고 말했었지."
 
 # game/game_script.rpy:23
 translate ko game_script_e35fe926:
 
     # "That's all she needs, and what I want to give her."
-    ""
+    "그게 사요리가 원하는 전부고, 내가 해주고 싶은 거다."
 
 # game/game_script.rpy:24
 translate ko game_script_8a012772:
 
     # "The hell with it. I'll go get her."
-    ""
+    "에라 모르겠다. 그냥 데리러 가야지."
 
 # game/game_script.rpy:25
 translate ko game_script_6f7f2a01:
 
     # "I grab the cupcakes Natsuki and I made yesterday, and make my way to Sayori's."
-    ""
+    "어제 나츠키랑 만든 컵케이크를 챙겨서 사요리네로 향한다."
 
 # game/game_script.rpy:29
 translate ko game_script_558b962d:
 
     # "I reach Sayori's house and knock on the door."
-    ""
+    "사요리네 집에 도착해서 문을 두드린다."
 
 # game/game_script.rpy:30
 translate ko game_script_b8d78e77:
 
     # "I don't expect an answer, since she's not picking up her phone, either."
-    ""
+    "전화도 안 받으니 답이 올 거라 기대도 안 한다."
 
 # game/game_script.rpy:31
 translate ko game_script_a19898c6:
 
     # "Like yesterday, I open the door and let myself in."
-    ""
+    "어제처럼 문을 열고 그냥 들어간다."
 
 # game/game_script.rpy:38
 translate ko game_script_4f4ec354:
 
     # "She really is a heavy sleeper..."
-    ""
+    "진짜 잠귀가 어두운 애네..."
 
 # game/game_script.rpy:39
 translate ko game_script_17df0a8d:
 
     # "I swallow."
-    ""
+    "침을 꿀꺽 삼킨다."
 
 # game/game_script.rpy:40
 translate ko game_script_5166b167:
 
     # "I can't believe I ended up doing this after all."
-    ""
+    "결국 이렇게까지 하게 될 줄은 몰랐는데."
 
 # game/game_script.rpy:41
 translate ko game_script_66baf796:
 
     # "Waking her up in her own house..."
-    ""
+    "남의 집에서 깨우는 것도 아니고, 자기 집에서 깨우다니..."
 
 # game/game_script.rpy:42
 translate ko game_script_d39780a5:
 
     # "Isn't that more like something a boyfriend would do?"
-    ""
+    "이거 거의 남자친구가 하는 짓 아니냐?"
 
 # game/game_script.rpy:43
 translate ko game_script_cc4d5947:
 
     # "In any case..."
-    ""
+    "어쨌든..."
 
 # game/game_script.rpy:44
 translate ko game_script_eff61fd1:
 
     # "It just feels right."
-    ""
+    "왠지 이게 맞는 것 같아."
 
 # game/game_script.rpy:45
 translate ko game_script_b771a755:
 
     # "Outside Sayori's room, I knock on her door."
-    ""
+    "사요리 방 앞에서 문을 두드린다."
 
 # game/game_script.rpy:46
 translate ko game_script_e766b9e2:
 
     # mc "Sayori?"
-    mc ""
+    mc "사요리?"
 
 # game/game_script.rpy:47
 translate ko game_script_2d697678:
 
     # mc "Wake up, dummy..."
-    mc ""
+    mc "일어나, 바보야..."
 
 # game/game_script.rpy:48
 translate ko game_script_4f673053:
 
     # "There's no response."
-    ""
+    "아무 반응이 없다."
 
 # game/game_script.rpy:49
 translate ko game_script_e55755b1:
 
     # "I really didn't want to have to enter her room like this..."
-    ""
+    "이렇게까지 해서 방에 들어가고 싶진 않았는데..."
 
 # game/game_script.rpy:50
 translate ko game_script_5f524499:
 
     # "Isn't it kind of a breach of privacy?"
-    ""
+    "이거 사생활 침해 아닌가?"
 
 # game/game_script.rpy:51
 translate ko game_script_92ad08b5:
 
     # "But she really leaves me no choice."
-    ""
+    "근데 어쩔 수가 없잖아."
 
 # game/game_script.rpy:52
 translate ko game_script_b0993b5c:
 
     # "I gently open the door."
-    ""
+    "조심스럽게 문을 연다."
 
 # game/game_script.rpy:54
 translate ko game_script_4afacb09:
 
     # mc "Sayo--{nw}"
-    mc ""
+    mc "사요--{nw}"
 
 # game/game_script.rpy:61
 translate ko game_script_c854fb6e:
 
     # mc "..ri?!"
-    mc ""
+    mc "..리?!"
 
 # game/game_script.rpy:64
 translate ko game_script_2d7cce6a:
 
     # s "[player]?!"
-    s ""
+    s "[player]?!"
 
 # game/game_script.rpy:67
 translate ko game_script_d61e5692:
 
     # "Sayori stands at the foot of her bed, a long rope in her hand."
-    ""
+    "사요리가 침대 끝에 서서 긴 줄을 들고 있다."
 
 # game/game_script.rpy:68
 translate ko game_script_211cae4d:
 
     # "It's tied into a hangman's noose."
-    ""
+    "그 줄은 올가미로 묶여 있다."
 
 # game/game_script.rpy:69
 translate ko game_script_9c578752:
 
     # "In the shock of the moment, I release my grip on the cupcakes."
-    ""
+    "순간 너무 놀라서 컵케이크를 놓쳐버린다."
 
 # game/game_script.rpy:70
 translate ko game_script_0ecfd99c:
 
     # "The tray clatters to the floor."
-    ""
+    "쟁반이 바닥에 쾅 하고 떨어진다."
 
 # game/game_script.rpy:72
 translate ko game_script_1687cf73:
 
     # mc "Oh my God..."
-    mc ""
+    mc "세상에..."
 
 # game/game_script.rpy:75
 translate ko game_script_226ccb92:
 
     # s "It- It's--"
-    s ""
+    s "그, 그게--"
 
 # game/game_script.rpy:77
 translate ko game_script_88a30d76:
 
     # s "I-I'm so sorry, [player]!"
-    s ""
+    s "미안해, [player]!"
 
 # game/game_script.rpy:79
 translate ko game_script_f063fb7d:
 
     # s "I'm sorry...{w}I'm sorry."
-    s ""
+    s "정말 미안해...{w}미안해..."
 
 # game/game_script.rpy:82
 translate ko game_script_ed13f6ad:
 
     # "She breaks down into incoherent sobs."
-    ""
+    "사요리가 흐느끼며 무너져 내린다."
 
 # game/game_script.rpy:84
 translate ko game_script_73ce31aa:
 
     # mc "Jesus-...Sayori..."
-    mc ""
+    mc "아... 사요리..."
 
 # game/game_script.rpy:86
 translate ko game_script_0c6d3861:
 
     # "I should've known. It was obvious."
-    ""
+    "내가 진작에 알아챘어야 했는데. 다 티 났었잖아."
 
 # game/game_script.rpy:87
 translate ko game_script_accadaea:
 
     # "I didn't listen, didn't see the signs."
-    ""
+    "난 듣지도 않았고, 신호도 못 봤어."
 
 # game/game_script.rpy:89
 translate ko game_script_5ba299ee:
 
     # "I...{w}almost lost her. My best friend."
-    ""
+    "나...{w}진짜로 그녀를 잃을 뻔했어. 내 베프를."
 
 # game/game_script.rpy:90
 translate ko game_script_ea79bebf:
 
     # "The one I {i}grew up with{/i}."
-    ""
+    "어릴 때부터 같이 자란 그 친구를."
 
 # game/game_script.rpy:92
 translate ko game_script_5046be86:
 
     # "Sayori drops the noose, dropping to the floor with a heavy thud."
-    ""
+    "사요리가 올가미를 놓고, 쿵 소리와 함께 바닥에 주저앉는다."
 
 # game/game_script.rpy:93
 translate ko game_script_8fe1a0ff:
 
     # "Just the act of looking at it makes my heart sink."
-    ""
+    "그걸 보기만 해도 심장이 철렁 내려앉는다."
 
 # game/game_script.rpy:95
 translate ko game_script_e87e0575:
 
     # mc "Sayori..."
-    mc ""
+    mc "사요리..."
 
 # game/game_script.rpy:96
 translate ko game_script_9eaafb91:
 
     # "She gets up and rushes towards me, clutching my shirt and crying into my chest."
-    ""
+    "사요리가 벌떡 일어나 내게 달려와서 내 셔츠를 움켜쥐고 내 품에 울음을 터뜨린다."
 
 # game/game_script.rpy:98
 translate ko game_script_1f4c19a1:
 
     # s "I-I didn't want to face it again."
-    s ""
+    s "다시 마주하고 싶지 않았어."
 
 # game/game_script.rpy:99
 translate ko game_script_162c8404:
 
     # s "What I...talked to you about."
-    s ""
+    s "내가... 너한테 얘기했던 그거."
 
 # game/game_script.rpy:101
 translate ko game_script_d2b08650:
 
     # s "I can't wake up every day like this."
-    s ""
+    s "매일 이렇게 깨어나는 건 못 하겠어."
 
 # game/game_script.rpy:103
 translate ko game_script_dbd84492:
 
     # s "I {i}can't{/i}, [player]."
-    s ""
+    s "진짜 {i}못 하겠어{/i}, [player]."
 
 # game/game_script.rpy:105
 translate ko game_script_6dc4287b:
 
     # "Words catch and stick in my throat, unable to come out."
-    ""
+    "목이 메어서 아무 말도 안 나와."
 
 # game/game_script.rpy:108
 translate ko game_script_e8a331c8:
 
     # s "I..."
-    s ""
+    s "나..."
 
 # game/game_script.rpy:109
 translate ko game_script_691045a1:
 
     # s "I can't."
-    s ""
+    s "못 하겠어."
 
 # game/game_script.rpy:111
 translate ko game_script_b34ab636:
 
     # s "I just..."
-    s ""
+    s "그냥..."
 
 # game/game_script.rpy:114
 translate ko game_script_78ce1890:
 
     # "There is a short pause."
-    ""
+    "잠깐 정적이 흐른다."
 
 # game/game_script.rpy:115
 translate ko game_script_94a1ff1e:
 
     # "All is silent, aside from Sayori's sobbing."
-    ""
+    "사요리의 흐느낌 말고는 아무 소리도 없다."
 
 # game/game_script.rpy:118
 translate ko game_script_d74d064a:
 
     # s "I...I was about to do it, [player]..."
-    s ""
+    s "나... 진짜로 하려고 했어, [player]..."
 
 # game/game_script.rpy:119
 translate ko game_script_dab8e8ba:
 
     # s "I was...so close. I could feel it."
-    s ""
+    s "거의... 바로 앞까지 갔었어. 진짜 느껴졌어."
 
 # game/game_script.rpy:121
 translate ko game_script_c7bb117c:
 
     # s "I'd have never seen you again."
-    s ""
+    s "다시는 널 못 봤을 거야."
 
 # game/game_script.rpy:124
 translate ko game_script_5e006e6a:
 
     # "I finally pull myself together enough to speak."
-    ""
+    "겨우 정신을 붙잡고 입을 뗀다."
 
 # game/game_script.rpy:126
 translate ko game_script_7e85b45d:
 
     # mc "Sayori...{w}could you imagine if I'd found you like that?"
-    mc ""
+    mc "사요리...{w}내가 그렇게 널 발견했다면 어땠을지 상상해봐."
 
 # game/game_script.rpy:127
 translate ko game_script_a2b4f5c1:
 
     # mc "My last memory of you, my best friend?"
-    mc ""
+    mc "내 마지막 기억이, 내 베프인 네가 그런 모습이었다면?"
 
 # game/game_script.rpy:130
 translate ko game_script_31cd6374:
 
     # s "I-I-I..."
-    s ""
+    s "나... 나..."
 
 # game/game_script.rpy:132
 translate ko game_script_c74f3dca:
 
     # s "I'm such a failure, [player]."
-    s ""
+    s "난 진짜 못난이야, [player]."
 
 # game/game_script.rpy:133
 translate ko game_script_8f12eec9:
 
     # s "I've only ever been selfish."
-    s ""
+    s "나만 생각했어, 항상."
 
 # game/game_script.rpy:134
 translate ko game_script_6a29f8fb:
 
     # s "I can't even think about the only person that cares about me for one second."
-    s ""
+    s "나를 챙겨주는 사람 생각도 못 하고..."
 
 # game/game_script.rpy:136
 translate ko game_script_94fd5938:
 
     # mc "Sayori, please listen."
-    mc ""
+    mc "사요리, 내 말 좀 들어봐."
 
 # game/game_script.rpy:137
 translate ko game_script_b72e96d2:
 
     # mc "There are so many people who care about you."
-    mc ""
+    mc "널 걱정하는 사람이 정말 많아."
 
 # game/game_script.rpy:138
 translate ko game_script_fe052d85:
 
     # mc "Monika, Yuri, Natsuki..."
-    mc ""
+    mc "모니카, 유리, 나츠키..."
 
 # game/game_script.rpy:139
 translate ko game_script_35850bd4:
 
     # mc "Your parents."
-    mc ""
+    mc "네 부모님도."
 
 # game/game_script.rpy:140
 translate ko game_script_852b9563:
 
     # mc "I want-..."
-    mc ""
+    mc "난..."
 
 # game/game_script.rpy:142
 translate ko game_script_e2026954:
 
     # "I choke back a sob and steady myself again."
-    ""
+    "울음이 터질 것 같아도 꾹 참고 다시 마음을 다잡는다."
 
 # game/game_script.rpy:144
 translate ko game_script_321480d5:
 
     # mc "I want you to remember that. You have a place here, and it wouldn't be the same."
-    mc ""
+    mc "그걸 꼭 기억해줘. 네 자리는 여기야, 네가 없으면 다 달라져."
 
 # game/game_script.rpy:145
 translate ko game_script_2b35b6fe:
 
     # mc "..."
-    mc ""
+    mc "..."
 
 # game/game_script.rpy:146
 translate ko game_script_3a38f78a:
 
     # mc "And I know it wouldn't be."
-    mc ""
+    mc "진짜로 달라질 거야."
 
 # game/game_script.rpy:147
 translate ko game_script_3495352a:
 
     # mc "You told me yourself yesterday."
-    mc ""
+    mc "네가 어제 직접 말했잖아."
 
 # game/game_script.rpy:153
 translate ko game_script_23d81314:
 
     # s "[player]..."
-    s ""
+    s "[player]..."
 
 # game/game_script.rpy:154
 translate ko game_script_b88b4335:
 
     # "She backs away, catching her breath."
-    ""
+    "사요리가 뒤로 물러나며 숨을 고른다."
 
 # game/game_script.rpy:157
 translate ko game_script_cb759382:
 
     # mc "I'm here for you."
-    mc ""
+    mc "난 네 곁에 있어."
 
 # game/game_script.rpy:158
 translate ko game_script_7359bd89:
 
     # mc "We all are."
-    mc ""
+    mc "우리 모두가 그래."
 
 # game/game_script.rpy:159
 translate ko game_script_d355debe:
 
     # mc "No matter what."
-    mc ""
+    mc "무슨 일이 있어도."
 
 # game/game_script.rpy:163
 translate ko game_script_62930ff7:
 
     # s "[player], don't..."
-    s ""
+    s "[player], 그러지 마..."
 
 # game/game_script.rpy:166
 translate ko game_script_2ddb555d:
 
     # mc "Sayori, you need to talk to somebody professional about this."
-    mc ""
+    mc "사요리, 이건 전문가랑 꼭 얘기해봐야 해."
 
 # game/game_script.rpy:167
 translate ko game_script_39f68306:
 
     # mc "Please...sooner rather than later."
-    mc ""
+    mc "제발... 최대한 빨리."
 
 # game/game_script.rpy:173
 translate ko game_script_1f3303ab:
 
     # s "I don't think I-I'm ready..."
-    s ""
+    s "아직... 준비가 안 된 것 같아..."
 
 # game/game_script.rpy:174
 translate ko game_script_b7884adf:
 
     # s "W-we can go another time."
-    s ""
+    s "다음에 가도 되잖아..."
 
 # game/game_script.rpy:176
 translate ko game_script_77348571:
 
     # s "There's still...the festival..."
-    s ""
+    s "아직... 축제도 남았고..."
 
 # game/game_script.rpy:177
 translate ko game_script_8e339ee2:
 
     # s "I wouldn't want you to keep the others waiting..."
-    s ""
+    s "다른 애들 기다리게 하고 싶지 않아..."
 
 # game/game_script.rpy:179
 translate ko game_script_0f7425d2:
 
     # mc "Screw the festival."
-    mc ""
+    mc "축제고 뭐고 신경 안 써."
 
 # game/game_script.rpy:180
 translate ko game_script_3ed8bb9a:
 
     # mc "You're more important to me than that."
-    mc ""
+    mc "넌 그거보다 훨씬 더 소중해."
 
 # game/game_script.rpy:181
 translate ko game_script_763600d7:
 
     # mc "Sayori...this isn't just something we can just {i}put off{/i}."
-    mc ""
+    mc "사요리... 이건 그냥 {i}미룰{/i} 일이 아니야."
 
 # game/game_script.rpy:183
 translate ko game_script_7fa5db4a:
 
     # mc "What if something like this happens tomorrow? Or when I'm not here?"
-    mc ""
+    mc "내일 또 이런 일이 생기면 어떡해? 내가 없을 때면?"
 
 # game/game_script.rpy:184
 translate ko game_script_7cf8353a:
 
     # mc "I'm not going to force you...but I really think you should."
-    mc ""
+    mc "억지로 시키진 않을게... 그래도 정말 필요하다고 생각해."
 
 # game/game_script.rpy:185
 translate ko game_script_811263f7:
 
     # mc "They can help."
-    mc ""
+    mc "도움이 될 거야."
 
 # game/game_script.rpy:186
 translate ko game_script_03a04da1:
 
     # mc "If I didn’t do everything in my power to help you, I could never forgive myself."
-    mc ""
+    mc "내가 널 위해 할 수 있는 걸 다 안 하면, 평생 후회할 거야."
 
 # game/game_script.rpy:188
 translate ko game_script_0fa0ca9b:
 
     # "She sniffles, wiping her face with her sleeve."
-    ""
+    "사요리가 훌쩍이며 소매로 얼굴을 닦는다."
 
 # game/game_script.rpy:191
 translate ko game_script_62a119a2:
 
     # s "You care about me too much, [player]."
-    s ""
+    s "넌 나한테 너무 신경 써, [player]."
 
 # game/game_script.rpy:193
 translate ko game_script_f9085243:
 
     # s "But...{w} I-I guess you're right..."
-    s ""
+    s "그래도...{w} 네 말이 맞는 것 같아..."
 
 # game/game_script.rpy:196
 translate ko game_script_f7a99b6c:
 
     # "She gazes out the window for a long, silent moment."
-    ""
+    "사요리가 창밖을 오래, 조용히 바라본다."
 
 # game/game_script.rpy:199
 translate ko game_script_1c6f029f:
 
     # s "I-I don't want to feel like this anymore."
-    s ""
+    s "이제 이런 기분 느끼기 싫어."
 
 # game/game_script.rpy:200
 translate ko game_script_f1ba3dc7:
 
     # s "If they can help..."
-    s ""
+    s "도움이 된다면..."
 
 # game/game_script.rpy:202
 translate ko game_script_eca9793e:
 
     # s "I'll try."
-    s ""
+    s "해볼게."
 
 # game/game_script.rpy:205
 translate ko game_script_e4980b51:
 
     # "I let out a deep sigh, while my adrenaline slowly subsides."
-    ""
+    "크게 한숨을 쉬며, 아까의 긴장이 조금씩 가라앉는다."
 
 # game/game_script.rpy:206
 translate ko game_script_59008570:
 
     # "However, I still can’t shake the anxiety brought on by all that’s transpired."
-    ""
+    "그래도 오늘 있었던 일들 때문에 불안함이 가시질 않는다."
 
 # game/game_script.rpy:207
 translate ko game_script_cef3b8a5:
 
     # "I just want her to be okay..."
-    ""
+    "그저 사요리가 괜찮았으면 좋겠다는 생각뿐이다..."
 
 # game/game_script.rpy:209
 translate ko game_script_b601bb12:
 
     # mc "Okay, we should leave now."
-    mc ""
+    mc "자, 이제 나가자."
 
 # game/game_script.rpy:210
 translate ko game_script_eceb1560:
 
     # mc "We can take the bus."
-    mc ""
+    mc "버스 타고 가면 돼."
 
 # game/game_script.rpy:213
 translate ko game_script_7a206056:
 
     # s "W-well..."
-    s ""
+    s "저기..."
 
 # game/game_script.rpy:214
 translate ko game_script_48db5161:
 
     # s "I-I need to get changed first."
-    s ""
+    s "나... 옷 좀 갈아입어야 해."
 
 # game/game_script.rpy:216
 translate ko game_script_db0f1615:
 
     # mc "O-oh!"
-    mc ""
+    mc "아, 맞다!"
 
 # game/game_script.rpy:217
 translate ko game_script_42d3094e:
 
     # mc "Of course..."
-    mc ""
+    mc "그렇지..."
 
 # game/game_script.rpy:219
 translate ko game_script_3fbb9852:
 
     # "I nod, and take a step outside the door, reaching down to pick up the rope first, taking it with me."
-    ""
+    "끄덕이고 문 밖으로 나가면서, 먼저 바닥에 있던 줄을 챙긴다."
 
 # game/game_script.rpy:220
 translate ko game_script_c199bc28:
 
     # "{i}Just in case{/i}."
-    ""
+    "{i}혹시 몰라서{/i}."
 
 # game/game_script.rpy:222
 translate ko game_script_e12d3b1f:
 
     # "She gently nods, shutting the door in my face."
-    ""
+    "사요리가 조용히 고개를 끄덕이고, 내 앞에서 문을 닫는다."
 
 # game/game_script.rpy:229
 translate ko game_script_b064db71:
 
     # "Again, I'm a little anxious, leaving her alone right after...{w}{i}that{/i}."
-    ""
+    "다시 혼자 두고 나니, ...{w}{i}그 일{/i} 이후라 더 불안하다."
 
 # game/game_script.rpy:230
 translate ko game_script_64c3c9bf:
 
     # "But she does need her privacy."
-    ""
+    "그래도 사요리에게도 혼자만의 시간이 필요하니까."
 
 # game/game_script.rpy:231
 translate ko game_script_cf84f0ed:
 
     # "I kneel down, beginning to clean up the cupcake massacre littering the floor with a towel."
-    ""
+    "바닥에 널브러진 컵케이크들을 수건으로 치우기 시작한다."
 
 # game/game_script.rpy:232
 translate ko game_script_21408033:
 
     # "Natsuki is going to kill me."
-    ""
+    "나츠키가 알면 나 죽는다, 진짜."
 
 # game/game_script.rpy:233
 translate ko game_script_5865ec9e:
 
     # "I return downstairs and untie the noose, dropping the loose rope in the trash."
-    ""
+    "아래로 내려가서 올가미를 풀고, 느슨해진 줄을 쓰레기통에 버린다."
 
 # game/game_script.rpy:234
 translate ko game_script_d84e4e6b:
 
     # "My hands are shaking the entire time, they're barely able to undo the knot."
-    ""
+    "손이 덜덜 떨려서 매듭을 푸는 것도 힘들다."
 
 # game/game_script.rpy:235
 translate ko game_script_c44fa2e5:
 
     # "How did she learn to do that..?"
-    ""
+    "도대체 저런 걸 어디서 배운 거지...?"
 
 # game/game_script.rpy:236
 translate ko game_script_11892a07:
 
     # "I linger downstairs for a minute, trying to relax before heading back upstairs."
-    ""
+    "아래에서 잠깐 멈춰서 진정하려고 애쓴다."
 
 # game/game_script.rpy:237
 translate ko game_script_e9851d0e:
 
     # "Taking a deep breath, I sit down for a minute."
-    ""
+    "깊게 숨을 들이쉬고 잠깐 앉는다."
 
 # game/game_script.rpy:238
 translate ko game_script_2b018eab:
 
     # "I shut my eyes, and rest my head in my hands."
-    ""
+    "눈을 감고, 두 손에 머리를 묻는다."
 
 # game/game_script.rpy:239
 translate ko game_script_516f51cb:
 
     # "I take a few deep breaths, hoping to level off my stress."
-    ""
+    "몇 번 심호흡을 하며 마음을 진정시키려 한다."
 
 # game/game_script.rpy:243
 translate ko game_script_988f75ac:
 
     # "She's {i}probably{/i} ready by now."
-    ""
+    "이제 {i}아마{/i} 준비됐겠지."
 
 # game/game_script.rpy:244
 translate ko game_script_3e6add8e:
 
     # "I knock on Sayori's door, and she opens it immediately."
-    ""
+    "사요리 방 문을 두드리자, 바로 문을 연다."
 
 # game/game_script.rpy:250
 translate ko game_script_1f56feb7:
 
     # mc "Ready?"
-    mc ""
+    mc "준비됐어?"
 
 # game/game_script.rpy:251
 translate ko game_script_d1c4b4d1:
 
     # "Sayori nods once, her eyes glued to the floor."
-    ""
+    "사요리가 고개만 끄덕이고, 시선은 바닥에 고정되어 있다."
 
 # game/game_script.rpy:255
 translate ko game_script_cdef04d7:
 
     # s "T-this is what's best for me, right?"
-    s ""
+    s "이게... 나한테 제일 좋은 거 맞지?"
 
 # game/game_script.rpy:259
 translate ko game_script_eb0687e9:
 
     # "Her light blue eyes stare through me, expectant of an answer"
-    ""
+    "사요리의 연한 파란 눈이 대답을 기다리며 나를 뚫어지게 바라본다."
 
 # game/game_script.rpy:260
 translate ko game_script_04fe7291:
 
     # "Seeing her like this is so...{w}unsettling."
-    ""
+    "이렇게 있는 사요리를 보니...{w}마음이 너무 불편하다."
 
 # game/game_script.rpy:261
 translate ko game_script_5be87876:
 
     # "It’s like someone rewired her brain overnight to become this husk of herself."
-    ""
+    "하룻밤 사이에 완전히 딴 사람이 된 것 같다."
 
 # game/game_script.rpy:262
 translate ko game_script_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/game_script.rpy:263
 translate ko game_script_81b6356f:
 
     # "I shouldn't think like that."
-    ""
+    "이런 생각 하면 안 되는데."
 
 # game/game_script.rpy:264
 translate ko game_script_516104f5:
 
     # "She's my best friend, and always will be."
-    ""
+    "사요리는 내 베프고, 앞으로도 변함없을 거다."
 
 # game/game_script.rpy:265
 translate ko game_script_ef751428:
 
     # "I take a deep breath, and sigh."
-    ""
+    "크게 숨을 들이쉬고, 한숨을 쉰다."
 
 # game/game_script.rpy:267
 translate ko game_script_8e9c953b:
 
     # mc "I'll be honest with you...{w}I don't know."
-    mc ""
+    mc "솔직히 말할게...{w}나도 잘 모르겠어."
 
 # game/game_script.rpy:268
 translate ko game_script_64ab6bc6:
 
     # mc "But I know that it's worth a shot."
-    mc ""
+    mc "그래도 해볼 가치는 있다고 생각해."
 
 # game/game_script.rpy:269
 translate ko game_script_6895e3f1:
 
     # mc "Come on, let's get going."
-    mc ""
+    mc "가자, 일단 움직이자."
 
 # game/game_script.rpy:286
 translate ko game_script_098ee451:
 
     # "I take a seat in an empty, but brightly lit waiting room."
-    ""
+    "아무도 없는, 밝게 불이 켜진 대기실에 앉는다."
 
 # game/game_script.rpy:287
 translate ko game_script_060642b7:
 
     # "My anxiety consumes me as I wait for Sayori to walk out from the doctor’s office."
-    ""
+    "사요리가 진료실에서 나오길 기다리면서 불안감이 나를 집어삼킨다."
 
 # game/game_script.rpy:288
 translate ko game_script_0e2a3da8:
 
     # "I have to lock my hands in place in order to stop them from showing my increasing worry."
-    ""
+    "손이 떨리지 않게 꼭 잡고 있다가, 불안한 마음을 들키지 않으려고 애쓴다."
 
 # game/game_script.rpy:289
 translate ko game_script_11741ed6:
 
     # "I subconsciously resort to tapping my foot on the floor and looking elsewhere in the waiting room."
-    ""
+    "무의식적으로 발을 바닥에 두드리며, 대기실 여기저기를 둘러본다."
 
 # game/game_script.rpy:290
 translate ko game_script_ac25c0b0:
 
     # "It’s the only thing I’m going to be able to do for quite a while."
-    ""
+    "당분간은 이거 말고는 할 수 있는 게 없다."
 
 # game/game_script.rpy:292
 translate ko game_script_6920d10f:
 
     # "Suddenly, my pocket rumbles, as my phone springs to life."
-    ""
+    "갑자기 주머니에서 핸드폰이 진동하며 울린다."
 
 # game/game_script.rpy:293
 translate ko game_script_d5aeed6b:
 
     # "I quickly pull it out and notice a text from Monika."
-    ""
+    "급히 꺼내보니 모니카에게서 문자가 와 있다."
 
 # game/game_script.rpy:294
 translate ko game_script_7e081204:
 
     # "Then it hits me...{w}today was the day of the festival."
-    ""
+    "그제야 깨닫는다...{w}오늘이 축제 날이었지."
 
 # game/game_script.rpy:295
 translate ko game_script_beac872d:
 
     # "Damn it. I should have told her that I couldn’t make it."
-    ""
+    "젠장. 못 간다고 미리 말했어야 했는데."
 
 # game/game_script.rpy:298
 translate ko game_script_da7b12c0:
 
     # m "hey [player_l], where are you??"
-    m ""
+    m "야 [player_l], 어디야??"
 
 # game/game_script.rpy:300
 translate ko game_script_428b976c:
 
     # "I have to reply."
-    ""
+    "답장해야겠다."
 
 # game/game_script.rpy:302
 translate ko game_script_070626b3:
 
     # mc "Sorry got caught up"
-    mc ""
+    mc "미안, 일이 좀 생겨서"
 
 # game/game_script.rpy:303
 translate ko game_script_acd509b0:
 
     # mc "I don’t think I’ll be able to make it to the festival"
-    mc ""
+    mc "축제 못 갈 것 같아"
 
 # game/game_script.rpy:304
 translate ko game_script_922bf303:
 
     # m "[player_l], please don’t tell me you’ve got cold feet about the poems or something"
-    m ""
+    m "[player_l], 설마 시 낭송 때문에 도망가는 거 아니지?"
 
 # game/game_script.rpy:305
 translate ko game_script_07d0e754:
 
     # mc "It’s an emergency"
-    mc ""
+    mc "급한 일이야"
 
 # game/game_script.rpy:306
 translate ko game_script_1c81b025:
 
     # m "oh no, whats going on?"
-    m ""
+    m "헉, 무슨 일이야?"
 
 # game/game_script.rpy:307
 translate ko game_script_f13f1a54:
 
     # mc "I dunno if I can tell you rn"
-    mc ""
+    mc "지금은 말하기 좀 그래"
 
 # game/game_script.rpy:308
 translate ko game_script_304b1f1a:
 
     # m "thats okay"
-    m ""
+    m "알겠어"
 
 # game/game_script.rpy:309
 translate ko game_script_8feb0029:
 
     # m "just please see if you can make it, or let me know if you cant"
-    m ""
+    m "혹시라도 올 수 있으면 알려줘, 못 오면 그것도 알려줘"
 
 # game/game_script.rpy:310
 translate ko game_script_f9ecebb2:
 
     # m "and if you know where sayori or natsuki are, can you tell them too?"
-    m ""
+    m "그리고 사요리나 나츠키 어디 있는지 알면 걔네한테도 좀 알려줘"
 
 # game/game_script.rpy:311
 translate ko game_script_87ef2cd0:
 
     # mc "OK I will"
-    mc ""
+    mc "알았어, 그렇게 할게"
 
 # game/game_script.rpy:313
 translate ko game_script_7fed3493:
 
     # "I peer through a small flute-glass window on the door."
-    ""
+    "문에 붙은 작은 유리창 너머로 살짝 들여다본다."
 
 # game/game_script.rpy:314
 translate ko game_script_24135849:
 
     # "I can see what appears to be Sayori breaking down in her chair, her arms folded on the doctor’s desk, her head rested upon them."
-    ""
+    "사요리가 의자에 앉아 무너져 내린 모습이 보인다. 팔을 책상에 올리고, 머리를 그 위에 파묻고 있다."
 
 # game/game_script.rpy:315
 translate ko game_script_1d4989ab:
 
     # "I’m stricken with guilt, as it was my own negligence that led her to this."
-    ""
+    "내 부주의 때문에 이렇게 된 거라 죄책감이 밀려온다."
 
 # game/game_script.rpy:316
 translate ko game_script_c46788a8:
 
     # "Behind me, the door that leads from the entrance to my waiting room swings open, and a couple of nurses walk by."
-    ""
+    "뒤쪽 입구에서 대기실로 이어지는 문이 열리고, 간호사 두 명이 지나간다."
 
 # game/game_script.rpy:318
 translate ko game_script_3a6f204e:
 
     # "But my phone buzzes again in my hand, and I turn my attention back to it."
-    ""
+    "하지만 손에 쥔 핸드폰이 또 진동하고, 다시 시선을 돌린다."
 
 # game/game_script.rpy:320
 translate ko game_script_ff09dd46:
 
     # m "its just me and yuri here, shes really nervous about performing as is"
-    m ""
+    m "지금 나랑 유리밖에 없어, 유리가 발표 때문에 엄청 긴장하고 있어."
 
 # game/game_script.rpy:321
 translate ko game_script_424011c2:
 
     # m "im trying to pep her up but without you guys, i dont think shell do it"
-    m ""
+    m "나 지금 걔 기운 좀 내게 하려고 하는데, 너희 없으면 아마 못 할 것 같아."
 
 # game/game_script.rpy:322
 translate ko game_script_39088847:
 
     # mc "I know"
-    mc ""
+    mc "알아."
 
 # game/game_script.rpy:323
 translate ko game_script_070af8a4:
 
     # mc "I’m sorry it’s a personal issue"
-    mc ""
+    mc "미안, 개인적인 일이야."
 
 # game/game_script.rpy:324
 translate ko game_script_4a202c90:
 
     # mc "Can’t promise anything but I’ll try to get there before it’s over ok?"
-    mc ""
+    mc "확실히 약속은 못 하지만, 끝나기 전에 가보려고 할게, 알았지?"
 
 # game/game_script.rpy:325
 translate ko game_script_10c89ca0:
 
     # m "okay, thx"
-    m ""
+    m "응, 고마워."
 
 # game/game_script.rpy:329
 translate ko game_script_00229c7c:
 
     # "A couple of minutes of idle waiting pass before I get another message from her."
-    ""
+    "몇 분 정도 멍하니 기다리다가 모니카한테 또 메시지가 온다."
 
 # game/game_script.rpy:331
 translate ko game_script_f093c9c4:
 
     # m "nvm everyones here already and theyre waiting"
-    m ""
+    m "아 됐다, 다들 이미 와서 기다리고 있어."
 
 # game/game_script.rpy:332
 translate ko game_script_53711d97:
 
     # m "probs gonna have to cancel the performance"
-    m ""
+    m "아마 공연 취소해야 할 듯."
 
 # game/game_script.rpy:334
 translate ko game_script_f077a9c5:
 
     # "I return the phone to my pocket, running my hands through my hair."
-    ""
+    "폰을 주머니에 넣고 머리를 쓸어넘긴다."
 
 # game/game_script.rpy:335
 translate ko game_script_dbdd01fa:
 
     # "Why now?"
-    ""
+    "왜 하필 지금이지?"
 
 # game/game_script.rpy:336
 translate ko game_script_9041f8f1:
 
     # "I feel terrible for Sayori, the fact that she’s in such pain right now and how oblivious I was to all of it."
-    ""
+    "지금 사요리가 얼마나 힘든지, 내가 그걸 몰랐던 게 너무 미안하다."
 
 # game/game_script.rpy:337
 translate ko game_script_42f823c1:
 
     # "But on the other hand, I also feel like I’ve put Monika and Yuri on the spot in front of all of our classmates."
-    ""
+    "근데 또 한편으론, 모니카랑 유리를 반 친구들 앞에서 곤란하게 만든 것 같아서 마음이 무겁다."
 
 # game/game_script.rpy:338
 translate ko game_script_ed101de0:
 
     # "Monika and Yuri..."
-    ""
+    "모니카랑 유리..."
 
 # game/game_script.rpy:339
 translate ko game_script_cfbbfc3a:
 
     # "That reminds me of what Monika just said."
-    ""
+    "방금 모니카가 한 말이 떠오른다."
 
 # game/game_script.rpy:340
 translate ko game_script_2915010a:
 
     # "Where {i}is{/i} Natsuki?"
-    ""
+    "나츠키는 {i}대체 어디 있는 거지?{/i}"
 
 # game/game_script.rpy:342
 translate ko game_script_8c669595:
 
     # "What the hell is with today?"
-    ""
+    "오늘은 진짜 뭐가 이렇게 꼬이는 거야?"
 
 # game/game_script.rpy:343
 translate ko game_script_475c9ab5:
 
     # "I can feel the anxiety rising up again, crushing my chest."
-    ""
+    "불안이 다시 밀려와서 가슴이 답답해진다."
 
 # game/game_script.rpy:344
 translate ko game_script_314fcf71:
 
     # "I try to take a deep breath."
-    ""
+    "깊게 숨을 쉬어본다."
 
 # game/game_script.rpy:345
 translate ko game_script_d7b9c94e:
 
     # "In."
-    ""
+    "들이쉬고,"
 
 # game/game_script.rpy:346
 translate ko game_script_02def2f0:
 
     # "Out."
-    ""
+    "내쉬고,"
 
 # game/game_script.rpy:347
 translate ko game_script_a9a360f5:
 
     # "Calm do---{nw}"
-    ""
+    "진정하자---{nw}"
 
 # game/game_script.rpy:349
 translate ko game_script_aa3ffd3b:
 
     # "My phone buzzes again."
-    ""
+    "폰이 또 진동한다."
 
 # game/game_script.rpy:351
 translate ko game_script_75516838:
 
     # m "are you sure you don’t know where sayori or natsuki are?"
-    m ""
+    m "진짜 사요리나 나츠키 어디 있는지 모르는 거야?"
 
 # game/game_script.rpy:353
 translate ko game_script_24b7313d:
 
     # "I’m almost tempted to just leave the message alone..."
-    ""
+    "그냥 메시지 무시하고 싶어질 정도다..."
 
 # game/game_script.rpy:354
 translate ko game_script_253e945d:
 
     # "But I give in."
-    ""
+    "그래도 결국 답장한다."
 
 # game/game_script.rpy:356
 translate ko game_script_126c355d:
 
     # mc "I already said I don’t know"
-    mc ""
+    mc "이미 모른다고 했잖아."
 
 # game/game_script.rpy:358
 translate ko game_script_67c9fb6b:
 
     # "I don’t like lying to people, but..."
-    ""
+    "거짓말하는 건 싫은데..."
 
 # game/game_script.rpy:359
 translate ko game_script_8415ca72:
 
     # "At this point, I can’t tell her about Sayori. It’d seem like I’m throwing her under the bus anyway."
-    ""
+    "지금 사요리 얘기하면 괜히 걔만 곤란해질 것 같아서 말 못 하겠다."
 
 # game/game_script.rpy:360
 translate ko game_script_cb2de4f4:
 
     # "And I really don’t have a clue where Natsuki is."
-    ""
+    "그리고 나츠키가 어디 있는지도 진짜 모른다."
 
 # game/game_script.rpy:361
 translate ko game_script_81216afa:
 
     # "It’s just a white lie. For their sake."
-    ""
+    "이건 그냥 선의의 거짓말이야. 걔네를 위해서."
 
 # game/game_script.rpy:363
 translate ko game_script_e45b3e46:
 
     # mc "I texted them but got nothing back"
-    mc ""
+    mc "문자 했는데 답이 없어."
 
 # game/game_script.rpy:364
 translate ko game_script_e95aa5f3:
 
     # m "well, it doesnt really matter now anyway"
-    m ""
+    m "뭐, 이제 어차피 다 지나간 일이니까."
 
 # game/game_script.rpy:365
 translate ko game_script_803ddf77:
 
     # m "we had to cancel our performance"
-    m ""
+    m "공연은 취소해야 했어."
 
 # game/game_script.rpy:366
 translate ko game_script_b5025185:
 
     # m "ppl are complaining about the cupcakes not being here"
-    m ""
+    m "애들이 컵케이크 없다고 난리야."
 
 # game/game_script.rpy:367
 translate ko game_script_a9e9fe9e:
 
     # m "yuris gone for some fresh air"
-    m ""
+    m "유리는 바람 좀 쐬러 나갔어."
 
 # game/game_script.rpy:369
 translate ko game_script_61fae46f:
 
     # "Crap."
-    ""
+    "아, 젠장."
 
 # game/game_script.rpy:371
 translate ko game_script_d71fb389:
 
     # mc "I’m really sorry Monika"
-    mc ""
+    mc "정말 미안해, 모니카."
 
 # game/game_script.rpy:372
 translate ko game_script_444e7bdb:
 
     # m "its fine"
-    m ""
+    m "괜찮아."
 
 # game/game_script.rpy:374
 translate ko game_script_3f739ce1:
 
     # "I sigh."
-    ""
+    "한숨이 나온다."
 
 # game/game_script.rpy:375
 translate ko game_script_59577f7f:
 
     # "Now I’ve disappointed Monika because I couldn’t bring myself to tell her what happened."
-    ""
+    "모니카한테 차마 무슨 일이 있었는지 말 못 해서 실망시킨 것 같다."
 
 # game/game_script.rpy:376
 translate ko game_script_986216fe:
 
     # "I type out a message for Natsuki, hoping to get some answers."
-    ""
+    "나츠키한테 답장 좀 받으려고 메시지를 보낸다."
 
 # game/game_script.rpy:378
 translate ko game_script_7877f36d:
 
     # mc "Hey Natsuki you okay? Monika said you were a no-show at the festival"
-    mc ""
+    mc "나츠키, 괜찮아? 모니카가 축제에 안 왔다고 하던데."
 
 # game/game_script.rpy:382
 translate ko game_script_c915662f:
 
     # "A couple of minutes pass with no response."
-    ""
+    "몇 분이 지나도 답장이 없다."
 
 # game/game_script.rpy:383
 translate ko game_script_e002d6d6:
 
     # "The message doesn't even mark as read."
-    ""
+    "읽지도 않은 것 같다."
 
 # game/game_script.rpy:387
 translate ko game_script_4ec8bb2b:
 
     # "The office door swings open, and Sayori emerges."
-    ""
+    "사요리가 사무실 문을 열고 나온다."
 
 # game/game_script.rpy:391
 translate ko game_script_e9c0686e:
 
     # "Sayori quietly walks over, tears streaming down her cheeks."
-    ""
+    "사요리가 조용히 다가오는데, 눈물이 볼을 타고 흐른다."
 
 # game/game_script.rpy:392
 translate ko game_script_24fde294:
 
     # "I quickly stand up to ask about her wellbeing."
-    ""
+    "난 급히 일어나서 사요리 상태를 물으려 한다."
 
 # game/game_script.rpy:395
 translate ko game_script_0bf03b92:
 
     # "Before I have time to say anything, she locks me in a tight embrace and sobs into my chest."
-    ""
+    "아무 말도 하기 전에 사요리가 나를 꼭 안고 내 품에서 울음을 터뜨린다."
 
 # game/game_script.rpy:397
 translate ko game_script_2e4deceb:
 
     # mc "Hey, it’s okay."
-    mc ""
+    mc "괜찮아, 사요리."
 
 # game/game_script.rpy:399
 translate ko game_script_59ea28b2:
 
     # s "I...I-I..."
-    s ""
+    s "나... 나..."
 
 # game/game_script.rpy:400
 translate ko game_script_760f63d6:
 
     # mc "Don’t worry, take your time."
-    mc ""
+    mc "괜찮아, 천천히 말해도 돼."
 
 # game/game_script.rpy:401
 translate ko game_script_08e0a6bc:
 
     # mc "I’m not going anywhere."
-    mc ""
+    mc "나 여기 있을게."
 
 # game/game_script.rpy:403
 translate ko game_script_d898a10a:
 
     # s "{i}I-I don’t deserve this!{/i}"
-    s ""
+    s "{i}나 이런 거 받을 자격 없어!{/i}"
 
 # game/game_script.rpy:404
 translate ko game_script_e87e0575_1:
 
     # mc "Sayori..."
-    mc ""
+    mc "사요리..."
 
 # game/game_script.rpy:407
 translate ko game_script_172cf4b7:
 
     # "It hurts so much to see her like this."
-    ""
+    "이렇게 힘들어하는 사요리를 보니 너무 아프다."
 
 # game/game_script.rpy:410
 translate ko game_script_dc54df45:
 
     # s "It’s t-true! I really messed up everything..."
-    s ""
+    s "진짜야! 내가 다 망쳐버렸어..."
 
 # game/game_script.rpy:411
 translate ko game_script_125a05a4:
 
     # s "You don’t get to spend time and have fun with any of the other club members."
-    s ""
+    s "너도 다른 애들이랑 놀지도 못하고, 시간도 못 보내잖아."
 
 # game/game_script.rpy:413
 translate ko game_script_dfa0e99d:
 
     # s "Monika’s probably upset about us not showing up for the festival."
-    s ""
+    s "모니카도 우리가 축제에 안 와서 속상할 거야."
 
 # game/game_script.rpy:414
 translate ko game_script_1a82a9a8:
 
     # s "Poor Yuri’s gonna be so embarrassed..."
-    s ""
+    s "유리는 또 얼마나 창피하겠어..."
 
 # game/game_script.rpy:416
 translate ko game_script_94b997af:
 
     # s "...and it’s all my fault."
-    s ""
+    s "...이 모든 게 다 내 잘못이야."
 
 # game/game_script.rpy:419
 translate ko game_script_4c3c723b:
 
     # "My mind wanders back to Monika’s texts..."
-    ""
+    "모니카가 보낸 문자들이 다시 떠오른다..."
 
 # game/game_script.rpy:420
 translate ko game_script_c216266a:
 
     # "Not telling her the whole story seems to have been a good call, for what that’s worth."
-    ""
+    "그래도 다 말하지 않은 게 잘한 선택이었던 것 같다."
 
 # game/game_script.rpy:421
 translate ko game_script_3f989ec2:
 
     # "I need to find a way to fix this."
-    ""
+    "이걸 어떻게든 바로잡아야겠다."
 
 # game/game_script.rpy:423
 translate ko game_script_7f5f2951:
 
     # mc "Sayori, look at me."
-    mc ""
+    mc "사요리, 내 얼굴 좀 봐."
 
 # game/game_script.rpy:426
 translate ko game_script_ebb0a7e1:
 
     # "She backs out of the hug and silently opens her eyes, staring into mine once again."
-    ""
+    "사요리가 조용히 내 품에서 벗어나 눈을 뜨고 다시 나를 바라본다."
 
 # game/game_script.rpy:428
 translate ko game_script_5542f90a:
 
     # mc "Look, Sayori. I really care about you, and so do the others at the club."
-    mc ""
+    mc "사요리, 나뿐만 아니라 동아리 애들도 다 널 정말 아껴."
 
 # game/game_script.rpy:429
 translate ko game_script_125b59e4:
 
     # mc "They would understand why we weren’t at the club today. Besides, that isn’t anything to worry about right now."
-    mc ""
+    mc "오늘 우리가 못 온 이유도 다 이해해줄 거야. 지금은 그게 중요한 게 아니야."
 
 # game/game_script.rpy:431
 translate ko game_script_24f165e7:
 
     # mc "If anything, you should tell them the truth about your depression."
-    mc ""
+    mc "아무리 그래도, 네 우울증에 대해선 솔직하게 말하는 게 좋을 것 같아."
 
 # game/game_script.rpy:432
 translate ko game_script_9afb2231:
 
     # mc "I know for a fact that they’d be supportive. They’re your friends."
-    mc ""
+    mc "걔네 분명히 네 편 들어줄 거야. 다 네 친구들이잖아."
 
 # game/game_script.rpy:434
 translate ko game_script_c5ade5a8:
 
     # s "I don’t know..."
-    s ""
+    s "잘 모르겠어..."
 
 # game/game_script.rpy:436
 translate ko game_script_7c92b445:
 
     # s "I just don’t want to make a big deal out of it, especially with the other club members and-{w=0.4}{nw}"
-    s ""
+    s "그냥 너무 거창하게 만들고 싶지 않아, 특히 동아리 애들이랑...{w=0.4}{nw}"
 
 # game/game_script.rpy:439
 translate ko game_script_ec7fea2a:
 
     # "I stand up and put my hand on her shoulder."
-    ""
+    "일어나서 사요리 어깨에 손을 얹는다."
 
 # game/game_script.rpy:441
 translate ko game_script_0a95b138:
 
     # mc "Sayori, I don’t think you understand how big of a deal this really is."
-    mc ""
+    mc "사요리, 네가 생각하는 것보다 이건 진짜 큰일이야."
 
 # game/game_script.rpy:442
 translate ko game_script_27226702:
 
     # mc "You nearly k-...{w=0.4}{nw}"
-    mc ""
+    mc "넌 거의...{w=0.4}{nw}"
 
 # game/game_script.rpy:445
 translate ko game_script_ed9b6a19:
 
     # "My voice cracks."
-    ""
+    "목소리가 떨린다."
 
 # game/game_script.rpy:446
 translate ko game_script_b87607fb:
 
     # "I compose myself."
-    ""
+    "다시 마음을 다잡는다."
 
 # game/game_script.rpy:448
 translate ko game_script_4cf61e75:
 
     # mc "You nearly died."
-    mc ""
+    mc "넌 정말 위험했어."
 
 # game/game_script.rpy:451
 translate ko game_script_dcd1d071:
 
     # "Sayori closes her eyes and takes a stuttered breath."
-    ""
+    "사요리가 눈을 감고, 숨을 떨리게 내쉰다."
 
 # game/game_script.rpy:452
 translate ko game_script_3d29b334:
 
     # "It’s like the words are finally hitting her."
-    ""
+    "내 말이 이제야 제대로 와닿는 것 같다."
 
 # game/game_script.rpy:454
 translate ko game_script_6b065b83:
 
     # "She looks away, wipes her eyes and changes the topic quickly."
-    ""
+    "사요리가 시선을 돌리고, 눈물을 닦으며 급히 화제를 바꾼다."
 
 # game/game_script.rpy:457
 translate ko game_script_9735a511:
 
     # s "W-What about the festival?"
-    s ""
+    s "그, 그럼... 축제는?"
 
 # game/game_script.rpy:459
 translate ko game_script_c4f2131c:
 
     # s "Did you talk to Monika about it yet?"
-    s ""
+    s "모니카한테 얘기했어?"
 
 # game/game_script.rpy:461
 translate ko game_script_e9f1a195:
 
     # "I hesitate."
-    ""
+    "잠깐 망설인다."
 
 # game/game_script.rpy:462
 translate ko game_script_11b897f3:
 
     # "I don’t want Sayori to feel like it’s her fault that the performance was cancelled, so I decide to start with Natsuki’s absence."
-    ""
+    "공연이 취소된 게 사요리 탓이라고 느끼게 하고 싶지 않아서, 나츠키 얘기부터 꺼내기로 한다."
 
 # game/game_script.rpy:464
 translate ko game_script_b730b467:
 
     # mc "Well...Natsuki didn’t show up either."
-    mc ""
+    mc "음... 나츠키도 안 왔어."
 
 # game/game_script.rpy:465
 translate ko game_script_f7a2f400:
 
     # mc "Monika had to cancel the performance, unfortunately."
-    mc ""
+    mc "그래서 모니카가 공연을 취소할 수밖에 없었어."
 
 # game/game_script.rpy:467
 translate ko game_script_a8dbd88e:
 
     # s "You didn’t...{w}You didn’t tell her, did you?"
-    s ""
+    s "너...{w}모니카한테 말 안 했지?"
 
 # game/game_script.rpy:469
 translate ko game_script_c63ce692:
 
     # s "About-{w=0.4}{nw}"
-    s ""
+    s "그...{w=0.4}{nw}"
 
 # game/game_script.rpy:471
 translate ko game_script_8aca707a:
 
     # mc "I didn’t."
-    mc ""
+    mc "아니, 말 안 했어."
 
 # game/game_script.rpy:473
 translate ko game_script_f2221ff1:
 
     # mc "Unless you want to talk to her about it yourself, she won't know."
-    mc ""
+    mc "네가 직접 얘기하지 않는 이상, 모니카는 모를 거야."
 
 # game/game_script.rpy:474
 translate ko game_script_1b199792:
 
     # mc "Okay?"
-    mc ""
+    mc "알겠지?"
 
 # game/game_script.rpy:477
 translate ko game_script_eabc28ba:
 
     # "Sayori nods, wiping her eyes with her forearm once more."
-    ""
+    "사요리가 다시 팔로 눈물을 닦으며 고개를 끄덕인다."
 
 # game/game_script.rpy:480
 translate ko game_script_8210b50f:
 
     # s "I...{w}think I’ll tell her."
-    s ""
+    s "나...{w}말해볼게."
 
 # game/game_script.rpy:482
 translate ko game_script_6aece9a9:
 
     # s "So she knows wh-why her plans for the festival were ruined."
-    s ""
+    s "그래야 축제 계획이 왜 망가졌는지 알 테니까."
 
 # game/game_script.rpy:485
 translate ko game_script_d3be9f31:
 
     # "I can tell what she’s going to say."
-    ""
+    "사요리가 무슨 말을 하려는지 알 것 같다."
 
 # game/game_script.rpy:488
 translate ko game_script_97303de1:
 
     # mc "Hey, it wasn’t your fault, Sayori."
-    mc ""
+    mc "사요리, 네 잘못 아니야."
 
 # game/game_script.rpy:489
 translate ko game_script_850d76d0:
 
     # mc "None of this is."
-    mc ""
+    mc "아무것도 네 탓이 아니야."
 
 # game/game_script.rpy:491
 translate ko game_script_a6d28ad9:
 
     # "Sayori grabs my hand tightly, crushing it in a vice-like grip."
-    ""
+    "사요리가 내 손을 꼭 잡는다, 거의 부러질 듯이."
 
 # game/game_script.rpy:493
 translate ko game_script_4903a918:
 
     # mc "You can talk to her if you really want to."
-    mc ""
+    mc "정말 원하면, 네가 직접 얘기해도 돼."
 
 # game/game_script.rpy:494
 translate ko game_script_8a7f9c9a:
 
     # mc "Hell, she’d probably be able to give better advice than me."
-    mc ""
+    mc "솔직히, 모니카가 나보다 훨씬 좋은 조언 해줄걸."
 
 # game/game_script.rpy:496
 translate ko game_script_42c3de85:
 
     # s "Maybe..."
-    s ""
+    s "그럴지도..."
 
 # game/game_script.rpy:500
 translate ko game_script_2299f5fa:
 
     # s "Did you...{w}tell my parents?"
-    s ""
+    s "혹시...{w}우리 부모님한테도 말했어?"
 
 # game/game_script.rpy:502
 translate ko game_script_3f739ce1_1:
 
     # "I sigh."
-    ""
+    "한숨을 쉰다."
 
 # game/game_script.rpy:504
 translate ko game_script_2485f494:
 
     # mc "I..."
-    mc ""
+    mc "나..."
 
 # game/game_script.rpy:506
 translate ko game_script_f71ca5b5:
 
     # mc "I did, yeah."
-    mc ""
+    mc "응, 말했어."
 
 # game/game_script.rpy:507
 translate ko game_script_63ffe930:
 
     # mc "I’m really sorry, I just thought they should know--{w=0.2}{nw}"
-    mc ""
+    mc "정말 미안해, 그냥 부모님이 아셔야 할 것 같아서--{w=0.2}{nw}"
 
 # game/game_script.rpy:509
 translate ko game_script_0be1bb5c:
 
     # "She lays her head on my shoulder."
-    ""
+    "사요리가 내 어깨에 머리를 기대온다."
 
 # game/game_script.rpy:511
 translate ko game_script_b5d5ba8a:
 
     # s "Thank you."
-    s ""
+    s "고마워."
 
 # game/game_script.rpy:513
 translate ko game_script_7507c9be:
 
     # s "I was too scared to tell them myself."
-    s ""
+    s "나 혼자선 말할 용기가 없었어."
 
 # game/game_script.rpy:516
 translate ko game_script_d4402a4a:
 
     # "She leans in closely to me, her soft breaths sweeping across my chest."
-    ""
+    "사요리가 내게 바짝 다가와서, 부드러운 숨결이 내 가슴을 스친다."
 
 # game/game_script.rpy:518
 translate ko game_script_6cfc8140:
 
     # "She closes her eyes and lets out a pained sigh."
-    ""
+    "사요리가 눈을 감고, 아픈 듯한 한숨을 쉰다."
 
 # game/game_script.rpy:520
 translate ko game_script_988e906b:
 
     # s "I love you, [player]."
-    s ""
+    s "사랑해, [player]."
 
 # game/game_script.rpy:522
 translate ko game_script_2485f494_1:
 
     # mc "I..."
-    mc ""
+    mc "나..."
 
 # game/game_script.rpy:524
 translate ko game_script_de8d97b0:
 
     # "Despite her current state, I can’t lie to her."
-    ""
+    "지금 사요리 상태를 생각하면, 거짓말은 못 하겠다."
 
 # game/game_script.rpy:525
 translate ko game_script_b1ec6cc2:
 
     # "It would be unfair on her end to have her hopes dashed like that."
-    ""
+    "괜히 기대하게 했다가 상처 주는 건 너무 불공평하니까."
 
 # game/game_script.rpy:527
 translate ko game_script_1b10b5d1:
 
     # "I feel her breath hitch. She grips at my shirt."
-    ""
+    "사요리가 숨을 멈추고, 내 셔츠를 꼭 잡는다."
 
 # game/game_script.rpy:528
 translate ko game_script_53583f31:
 
     # "I hold her in a tight hug."
-    ""
+    "난 사요리를 꼭 안아준다."
 
 # game/game_script.rpy:529
 translate ko game_script_0c39a3f1:
 
     # "It's the only solace I can provide."
-    ""
+    "내가 해줄 수 있는 건 이거뿐이다."
 
 # game/game_script.rpy:530
 translate ko game_script_2afc72e3:
 
     # "I’m just glad she’s here. That she’s alive, and breathing."
-    ""
+    "그저 사요리가 여기 있고, 살아 있고, 숨 쉬고 있다는 게 고맙다."
 
 # game/game_script.rpy:531
 translate ko game_script_87290c9f:
 
     # "That I still have a best friend."
-    ""
+    "내 베프가 아직 내 곁에 있다는 게."
 
 # game/game_script.rpy:533
 translate ko game_script_89dffbfc:
 
     # "After a small bit, she steps back, sniffles, and wipes her eyes."
-    ""
+    "잠시 후 사요리가 뒤로 물러나며 훌쩍이고, 눈물을 닦는다."
 
 # game/game_script.rpy:535
 translate ko game_script_675670c3:
 
     # mc "We...we should get going."
-    mc ""
+    mc "우리... 이제 가야겠다."
 
 # game/game_script.rpy:537
 translate ko game_script_1d404aeb:
 
     # mc "There’s no point going to school now, I suppose, so---{w=0.4}{nw}"
-    mc ""
+    mc "이제 학교 가는 건 의미 없을 것 같으니까, 그러니까---{w=0.4}{nw}"
 
 # game/game_script.rpy:539
 translate ko game_script_347d2c1e:
 
     # s "Actually...[player]..."
-    s ""
+    s "저기...[player]..."
 
 # game/game_script.rpy:541
 translate ko game_script_ea8cd4f8:
 
     # s "They’re...keeping me here for a while."
-    s ""
+    s "여기서... 좀 더 있어야 한대."
 
 # game/game_script.rpy:543
 translate ko game_script_4170387e:
 
     # s "I...think it could help, like you said."
-    s ""
+    s "네 말대로... 도움이 될 것 같아."
 
 # game/game_script.rpy:546
 translate ko game_script_5d0bafbd:
 
     # "They’re keeping her on suicide watch..?"
-    ""
+    "여기서 자살 위험 때문에 지켜보는 건가...?"
 
 # game/game_script.rpy:547
 translate ko game_script_9bc622b5:
 
     # "Jesus Christ."
-    ""
+    "세상에..."
 
 # game/game_script.rpy:548
 translate ko game_script_a5e8d1c4:
 
     # "I take a deep breath."
-    ""
+    "깊게 숨을 쉰다."
 
 # game/game_script.rpy:550
 translate ko game_script_c16a5914:
 
     # mc "That’s probably a good idea. They’ll know how to look after you."
-    mc ""
+    mc "그게 좋을 거야. 전문가들이 잘 돌봐줄 테니까."
 
 # game/game_script.rpy:552
 translate ko game_script_b0a991d3:
 
     # "She only responds by squeezing my hand."
-    ""
+    "사요리는 내 손을 꼭 잡으며 대답 대신한다."
 
 # game/game_script.rpy:554
 translate ko game_script_f784173b:
 
     # mc "Look, I’ll keep my phone with me. If you have the chance, you can message me whenever you want."
-    mc ""
+    mc "내 폰 항상 들고 있을게. 언제든 연락하고 싶으면 해."
 
 # game/game_script.rpy:555
 translate ko game_script_146b7f1a:
 
     # mc "Hell, I’ll even pick you up whenever they release you."
-    mc ""
+    mc "진짜, 퇴원하면 내가 데리러 갈게."
 
 # game/game_script.rpy:558
 translate ko game_script_cafdc124:
 
     # mc "You’re going to be okay, Sayori."
-    mc ""
+    mc "사요리, 넌 괜찮아질 거야."
 
 # game/game_script.rpy:560
 translate ko game_script_8c450bc3:
 
     # "We hug again, only for a moment this time."
-    ""
+    "우린 다시 잠깐 안는다."
 
 # game/game_script.rpy:563
 translate ko game_script_191b4a33:
 
     # mc "Don’t let me keep you waiting. I’ll let your family know where you are."
-    mc ""
+    mc "내가 기다리게 하진 않을게. 가족한테 네 소식도 전할게."
 
 # game/game_script.rpy:565
 translate ko game_script_9cf703cd:
 
     # s "Thank you, [player]. For everything."
-    s ""
+    s "고마워, [player]. 모든 것에."
 
 # game/game_script.rpy:570
 translate ko game_script_b9c257fd:
 
     # "We let go and say our goodbyes, albeit reluctantly."
-    ""
+    "우린 서로를 놓고, 아쉬운 작별 인사를 한다."
 
 # game/game_script.rpy:572
 translate ko game_script_af4dd38e:
 
     # "The nurse assures me she would be in good hands, and escorts me out."
-    ""
+    "간호사가 사요리가 잘 돌봄 받을 거라고 안심시키며 나를 밖으로 안내한다."
 
 # game/game_script.rpy:573
 translate ko game_script_53fcbbda:
 
     # "With a long sigh, I start my journey home."
-    ""
+    "길게 한숨을 쉬고 집으로 돌아가는 길에 오른다."
 
 # game/game_script.rpy:580
 translate ko game_script_12f1f96c:
 
     # "The mid-afternoon sun warms my back as I approach my house."
-    ""
+    "집에 가까워질수록 오후 햇살이 등을 따뜻하게 해준다."
 
 # game/game_script.rpy:581
 translate ko game_script_89ea0daf:
 
     # "The bus ride seemed to breeze right on by. I barely remember it."
-    ""
+    "버스 타고 오는 길은 순식간에 지나간 것 같다. 거의 기억도 안 난다."
 
 # game/game_script.rpy:582
 translate ko game_script_1286903d:
 
     # "Before I enter, I turn my head and look at the neighboring house."
-    ""
+    "집에 들어가기 전에 옆집을 한번 바라본다."
 
 # game/game_script.rpy:583
 translate ko game_script_baa19fba:
 
     # "Her house."
-    ""
+    "사요리네 집."
 
 # game/game_script.rpy:584
 translate ko game_script_469cc996:
 
     # "I close my eyes and shake my head."
-    ""
+    "눈을 감고 고개를 젓는다."
 
 # game/game_script.rpy:585
 translate ko game_script_3d0c95eb:
 
     # "She’s safe now. She’s okay."
-    ""
+    "이제 사요리는 안전해. 괜찮을 거야."
 
 # game/game_script.rpy:586
 translate ko game_script_e3a83f2c:
 
     # "She’s in a safe place and she will be okay."
-    ""
+    "안전한 곳에 있으니까 분명 괜찮아질 거야."
 
 # game/game_script.rpy:587
 translate ko game_script_4488d3f9:
 
     # "The mantra does nothing to quell my worries."
-    ""
+    "아무리 되뇌어도 걱정이 가라앉질 않는다."
 
 # game/game_script.rpy:588
 translate ko game_script_510d2d1e:
 
     # "I begin to tremble as I unlock my door to step inside."
-    ""
+    "문을 열고 들어가려는데 몸이 떨린다."
 
 # game/game_script.rpy:594
 translate ko game_script_f847c77c:
 
     # "The moment I enter the kitchen, I flick the light on and collapse into a chair."
-    ""
+    "부엌에 들어서자마자 불을 켜고 의자에 털썩 앉는다."
 
 # game/game_script.rpy:595
 translate ko game_script_b1328f51:
 
     # "I hold my head and try to focus on something else."
-    ""
+    "머리를 감싸쥐고 딴 생각을 하려고 애쓴다."
 
 # game/game_script.rpy:598
 translate ko game_script_65152496:
 
     # "I can feel the nerves coming on."
-    ""
+    "긴장이 다시 몰려온다."
 
 # game/game_script.rpy:599
 translate ko game_script_99ea0ced:
 
     # "All that adrenaline from earlier has left me mentally and physically exhausted."
-    ""
+    "아까의 아드레날린이 다 빠져나가서 정신도 몸도 완전히 지쳤다."
 
 # game/game_script.rpy:600
 translate ko game_script_be94bf6b:
 
     # "It’s only then I realize I haven’t eaten today."
-    ""
+    "그제야 오늘 아무것도 안 먹었다는 걸 깨닫는다."
 
 # game/game_script.rpy:601
 translate ko game_script_393ebcf3:
 
     # "Despite my body screaming at me, I force myself to get up and make a sandwich."
-    ""
+    "몸이 비명을 지르는데도 억지로 일어나 샌드위치를 만든다."
 
 # game/game_script.rpy:602
 translate ko game_script_aa00859e:
 
     # "My mind wanders to the events of the day."
-    ""
+    "오늘 있었던 일들이 머릿속을 맴돈다."
 
 # game/game_script.rpy:604
 translate ko game_script_62bf1f21:
 
     # "The image of Sayori, noose around her neck, the frightened expression frozen on her face..."
-    ""
+    "목에 올가미를 두른 채 겁먹은 표정으로 굳어 있던 사요리 모습이 떠오른다..."
 
 # game/game_script.rpy:605
 translate ko game_script_13ffeb34:
 
     # "There’s that feeling...{w}that tightness in the chest..."
-    ""
+    "또 그 느낌...{w}가슴이 조여오는 그 답답함..."
 
 # game/game_script.rpy:606
 translate ko game_script_c395113b:
 
     # "Why the hell does this feeling keep coming back when I think about-..."
-    ""
+    "왜 자꾸 이런 기분이 떠오르는 거지..."
 
 # game/game_script.rpy:609
 translate ko game_script_2bb1ec5c:
 
     # "I don’t want to think about it anymore."
-    ""
+    "더는 생각하고 싶지 않다."
 
 # game/game_script.rpy:610
 translate ko game_script_bedb5c2b:
 
     # "My mind settles on Monika’s reaction."
-    ""
+    "모니카 반응이 떠오른다."
 
 # game/game_script.rpy:611
 translate ko game_script_cf60b61d:
 
     # "Yuri must have been so stressed, too."
-    ""
+    "유리도 엄청 스트레스 받았겠지."
 
 # game/game_script.rpy:612
 translate ko game_script_51d7bc2f:
 
     # "And where was Natsuki?"
-    ""
+    "그리고 나츠키는 어디 있었던 거지?"
 
 # game/game_script.rpy:613
 translate ko game_script_4bbcaf3f:
 
     # "It seems like everything is just crumbling down today."
-    ""
+    "오늘은 모든 게 다 무너지는 것 같다."
 
 # game/game_script.rpy:614
 translate ko game_script_8ccaa480:
 
     # "I noticed that she still hasn’t texted back."
-    ""
+    "아직도 답장이 안 왔다는 게 신경 쓰인다."
 
 # game/game_script.rpy:615
 translate ko game_script_2e4da718:
 
     # "Hell, my messages are still unre--{w=0.1}{nw}"
-    ""
+    "아, 내 문자도 아직 읽지도 않았고--{w=0.1}{nw}"
 
 # game/game_script.rpy:626
 translate ko game_script_7dbbb621:
 
     # mc "Ah, shit!"
-    mc ""
+    mc "아, 젠장!"
 
 # game/game_script.rpy:628
 translate ko game_script_2878b9c9:
 
     # "While I was distracted, I accidentally cut my finger open while slicing a tomato."
-    ""
+    "딴 생각하다가 토마토 썰다가 손가락을 베어버렸다."
 
 # game/game_script.rpy:629
 translate ko game_script_00557965:
 
     # "The knife clatters to the floor."
-    ""
+    "칼이 바닥에 쨍그랑 떨어진다."
 
 # game/game_script.rpy:630
 translate ko game_script_0ecb4399:
 
     # "I quickly wrap my finger in a paper towel, letting the few drops of blood soak into it."
-    ""
+    "급히 휴지로 손가락을 감싸고, 피 몇 방울이 스며든다."
 
 # game/game_script.rpy:631
 translate ko game_script_62ca33bb:
 
     # "Damn, I didn’t feel a thing."
-    ""
+    "아, 아무 감각도 없네."
 
 # game/game_script.rpy:632
 translate ko game_script_a2c0c639:
 
     # "I guess the knife’s sharp, at least."
-    ""
+    "그래도 칼은 잘 들긴 하네."
 
 # game/game_script.rpy:633
 translate ko game_script_924493cc:
 
     # "Regardless, I go ahead and eat the sandwich."
-    ""
+    "어쨌든 샌드위치는 그냥 먹는다."
 
 # game/game_script.rpy:634
 translate ko game_script_e5ecf9f4:
 
     # "I’m too hungry to care if there’s a little blood on it."
-    ""
+    "배가 너무 고파서 피 좀 묻은 건 신경도 안 쓴다."
 
 # game/game_script.rpy:635
 translate ko game_script_e20da3ca:
 
     # "I toss my dish into the sink alongside the knife, and head upstairs to my room."
-    ""
+    "그릇이랑 칼을 싱크대에 던져놓고 방으로 올라간다."
 
 # game/game_script.rpy:641
 translate ko game_script_d64011b3:
 
     # "I collapse onto my bed, exhausted from the stress that the day had brought me."
-    ""
+    "침대에 쓰러지듯 누워 오늘 하루의 스트레스에 완전히 지친다."
 
 # game/game_script.rpy:642
 translate ko game_script_2b7db65e:
 
     # "I send a text to Sayori, fighting the urge to fall asleep."
-    ""
+    "잠들고 싶은 걸 꾹 참고 사요리에게 문자를 보낸다."
 
 # game/game_script.rpy:643
 translate ko game_script_066eea88:
 
     # "With the message sent, I surrender to my exhaustion."
-    ""
+    "문자 보내고 나니 완전히 녹초가 된다."
 
 # game/game_script.rpy:644
 translate ko game_script_1aab143b:
 
     # "I drift into unconsciousness within minutes."
-    ""
+    "몇 분 만에 잠에 빠져든다."
 
 # game/game_script.rpy:660
 translate ko game_script_11b743b3:
 
     # "I’m pulled from my sleep by the sounds of birds and passing cars."
-    ""
+    "새소리랑 지나가는 차 소리에 잠에서 깬다."
 
 # game/game_script.rpy:661
 translate ko game_script_a0b5851e:
 
     # "I check my phone."
-    ""
+    "폰을 확인한다."
 
 # game/game_script.rpy:662
 translate ko game_script_fd38108b:
 
     # "12:39..."
-    ""
+    "12시 39분..."
 
 # game/game_script.rpy:663
 translate ko game_script_351688ce:
 
     # "12:40."
-    ""
+    "12시 40분."
 
 # game/game_script.rpy:664
 translate ko game_script_d9bf793d:
 
     # "Crap, I’m late!"
-    ""
+    "아, 망했다! 늦었네!"
 
 # game/game_script.rpy:665
 translate ko game_script_fba6b5b7:
 
     # "I bolt out of bed and quickly put on my clothes."
-    ""
+    "벌떡 일어나서 후다닥 옷을 입는다."
 
 # game/game_script.rpy:666
 translate ko game_script_dd6bf717:
 
     # "The adrenaline of anxiety wakes me up completely."
-    ""
+    "불안감에 아드레날린이 확 돌면서 완전히 깬다."
 
 # game/game_script.rpy:667
 translate ko game_script_69c8cfc9:
 
     # "As I’m changing, I stop and take a moment to think clearly."
-    ""
+    "옷 갈아입다 말고 잠깐 멈춰서 정신을 가다듬는다."
 
 # game/game_script.rpy:668
 translate ko game_script_d10b4fc7:
 
     # "If I’m this late already, I might as well not go."
-    ""
+    "이렇게 늦었으면 그냥 안 가는 게 낫겠다."
 
 # game/game_script.rpy:669
 translate ko game_script_4336ec34:
 
     # "Another absence. That’s going to look {i}fantastic{/i} on my school standing."
-    ""
+    "또 결석이네. 학교 기록에 {i}끝내주게{/i} 남겠지."
 
 # game/game_script.rpy:670
 translate ko game_script_274e99b7:
 
     # "I sigh and sit down, half dressed."
-    ""
+    "한숨 쉬며 옷도 다 못 입고 앉는다."
 
 # game/game_script.rpy:671
 translate ko game_script_93260731:
 
     # "I can probably still go to the Literature Club, at least."
-    ""
+    "그래도 문예부엔 갈 수는 있겠지."
 
 # game/game_script.rpy:672
 translate ko game_script_7912eb13:
 
     # "Check on Natsuki, let Monika and Yuri know what’s going on..."
-    ""
+    "나츠키도 챙기고, 모니카랑 유리한테도 상황 알려주고..."
 
 # game/game_script.rpy:673
 translate ko game_script_dbd916b4:
 
     # "It’s not going to be a pleasant day."
-    ""
+    "오늘도 만만치 않겠네."
 
 # game/game_script.rpy:674
 translate ko game_script_96bc78f1:
 
     # "But first...a much-needed shower is in order."
-    ""
+    "일단... 샤워부터 해야겠다."
 
 # game/game_script.rpy:681
 translate ko game_script_90d336f4:
 
     # "I step out of the bathroom, feeling fresh and clean."
-    ""
+    "샤워하고 나오니 좀 개운하다."
 
 # game/game_script.rpy:682
 translate ko game_script_2c9a60c5:
 
     # "I check the time again. 13:06."
-    ""
+    "다시 시간을 확인한다. 1시 6분."
 
 # game/game_script.rpy:683
 translate ko game_script_29b9ea2c:
 
     # "How long was I {i}in{/i} there?"
-    ""
+    "나 거기서 {i}얼마나{/i} 있었던 거지?"
 
 # game/game_script.rpy:684
 translate ko game_script_28faf898:
 
     # "At least I feel less tense now."
-    ""
+    "그래도 긴장은 좀 풀렸다."
 
 # game/game_script.rpy:685
 translate ko game_script_03648c6c:
 
     # "It just occurs to me, neither Natsuki nor Sayori have responded to me."
-    ""
+    "문득, 나츠키도 사요리도 답장이 없다는 게 떠오른다."
 
 # game/game_script.rpy:686
 translate ko game_script_3f95a4bc:
 
     # "I haven’t heard a peep from either of them."
-    ""
+    "둘 다 아무 소식이 없다."
 
 # game/game_script.rpy:687
 translate ko game_script_94e8bdeb:
 
     # "My fears have crept their way back, rooting themselves into the pit of my stomach like a vile tumor."
-    ""
+    "불안이 다시 스멀스멀 올라와서 속이 뒤틀린다."
 
 # game/game_script.rpy:688
 translate ko game_script_25f7f05f:
 
     # "I figure they might have taken Sayori’s phone or she’s turned it off, that’s not a huge deal right now."
-    ""
+    "사요리 폰을 누가 가져갔거나 꺼놨겠지, 지금은 그게 큰일은 아니야."
 
 # game/game_script.rpy:689
 translate ko game_script_37dc5ba1:
 
     # "She’s in a safe place."
-    ""
+    "사요리는 안전한 곳에 있으니까."
 
 # game/game_script.rpy:690
 translate ko game_script_c9d3cffd:
 
     # "But Natsuki..."
-    ""
+    "근데 나츠키는..."
 
 # game/game_script.rpy:691
 translate ko game_script_aed2c5fb:
 
     # "I’m tempted to call her, let her know what’s happened, ask if she’s okay..."
-    ""
+    "전화해서 무슨 일 있었는지 말하고, 괜찮은지 물어보고 싶다..."
 
 # game/game_script.rpy:692
 translate ko game_script_4c38b8ea:
 
     # "But the rational side of my brain interrupts."
-    ""
+    "하지만 이성적으로 생각하면 참아야 할 것 같다."
 
 # game/game_script.rpy:693
 translate ko game_script_bfa380b0:
 
     # "{i}What if she’s in class? What if her phone is broken or something?{/i}"
-    ""
+    "{i}혹시 수업 중이거나 폰이 고장 났으면 어쩌지?{/i}"
 
 # game/game_script.rpy:694
 translate ko game_script_d9b6d526:
 
     # "She could be fine for all I know."
-    ""
+    "사실 아무 문제 없을 수도 있잖아."
 
 # game/game_script.rpy:695
 translate ko game_script_735724c0:
 
     # "Damn it."
-    ""
+    "아, 젠장."
 
 # game/game_script.rpy:696
 translate ko game_script_de9697ec:
 
     # "I almost wish I were omnipotent, so I wouldn’t have this painful, crushing {i}worry{/i}..."
-    ""
+    "차라리 전지전능했으면 이런 답답한 {i}걱정{/i} 안 했을 텐데..."
 
 # game/game_script.rpy:706
 translate ko game_script_c055d7ac:
 
     # "I hold my breath and check the time."
-    ""
+    "숨을 참고 시간을 확인한다."
 
 # game/game_script.rpy:707
 translate ko game_script_59575f84:
 
     # "Club should have started by now."
-    ""
+    "이제 동아리 시간 시작했을 텐데."
 
 # game/game_script.rpy:708
 translate ko game_script_fdb12d86:
 
     # "I follow the path along the courtyard."
-    ""
+    "운동장 길을 따라 걷는다."
 
 # game/game_script.rpy:709
 translate ko game_script_b6dabb50:
 
     # "At least Sayori isn’t here to scold me for missing class."
-    ""
+    "적어도 사요리가 결석했다고 뭐라 하진 않겠네."
 
 # game/game_script.rpy:710
 translate ko game_script_ea65b706:
 
     # "...who am I kidding?"
-    ""
+    "...나도 참, 무슨 소리야."
 
 # game/game_script.rpy:711
 translate ko game_script_704ce469:
 
     # "Right now I’d take any amount of teasing to see her."
-    ""
+    "지금은 놀림 좀 당해도 좋으니까 사요리만 볼 수 있으면 좋겠다."
 
 # game/game_script.rpy:712
 translate ko game_script_56e847a8:
 
     # "At least she’s in a safe place."
-    ""
+    "그래도 안전한 곳에 있으니까."
 
 # game/game_script.rpy:713
 translate ko game_script_a20cefa7_1:
 
     # "..."
-    ""
+    "..."
 
 # game/game_script.rpy:714
 translate ko game_script_dbbddc1f:
 
     # "I force my thoughts towards the club."
-    ""
+    "억지로 생각을 동아리 쪽으로 돌린다."
 
 # game/game_script.rpy:715
 translate ko game_script_f99ef078:
 
     # "Reaching the door, I let myself inside and begin to navigate the hallways."
-    ""
+    "문 앞에 도착해서 들어가 복도를 따라 걷는다."
 
 # game/game_script.rpy:718
 translate ko game_script_0f9c2fc4:
 
     # "After a short walk, I stop outside the door."
-    ""
+    "잠깐 걷다가 문 앞에 멈춰 선다."
 
 # game/game_script.rpy:719
 translate ko game_script_64a9d6c5:
 
     # "I can see Monika and Yuri inside."
-    ""
+    "안에 모니카랑 유리가 보인다."
 
 # game/game_script.rpy:720
 translate ko game_script_7cb66bc9:
 
     # "No Natsuki."
-    ""
+    "나츠키는 없다."
 
 # game/game_script.rpy:721
 translate ko game_script_095e0c14:
 
     # "My gut feels like it’s been dropped onto solid concrete."
-    ""
+    "속이 철렁 내려앉는다."
 
 # game/game_script.rpy:722
 translate ko game_script_7a611292:
 
     # "My already present worry only gets worse."
-    ""
+    "이미 있던 걱정이 더 커진다."
 
 # game/game_script.rpy:723
 translate ko game_script_b26d8aca:
 
     # "I take a moment to compose myself before walking in."
-    ""
+    "잠깐 마음을 다잡고 들어간다."
 
 # game/game_script.rpy:729
 translate ko game_script_0556d510:
 
     # "As I enter, both Monika and Yuri turn to stare at me."
-    ""
+    "들어가자마자 모니카랑 유리가 나를 쳐다본다."
 
 # game/game_script.rpy:731
 translate ko game_script_0e21eb37:
 
     # "Yuri quickly buries herself back into her book."
-    ""
+    "유리는 얼른 책에 다시 집중한다."
 
 # game/game_script.rpy:732
 translate ko game_script_2755e88e:
 
     # "Whatever plan I had to explain myself vanished the second I entered."
-    ""
+    "무슨 말을 하려고 했던 건 들어오자마자 다 사라졌다."
 
 # game/game_script.rpy:733
 translate ko game_script_cac3cb97:
 
     # "I could only stand there awkwardly."
-    ""
+    "어색하게 서 있기만 한다."
 
 # game/game_script.rpy:734
 translate ko game_script_034670b6:
 
     # "I cough and try to stammer out a greeting."
-    ""
+    "기침을 하며 인사를 더듬거리려 한다."
 
 # game/game_script.rpy:736
 translate ko game_script_150869d6:
 
     # mc "Hi Moni--{w=0.2}{nw}"
-    mc ""
+    mc "모니--{w=0.2}{nw}"
 
 # game/game_script.rpy:738
 translate ko game_script_03667fe2:
 
     # m "[player], can we talk?"
-    m ""
+    m "[player], 잠깐 얘기 좀 할 수 있을까?"
 
 # game/game_script.rpy:741
 translate ko game_script_c6a22fa2:
 
     # "She’s uncharacteristically emotionless and dreary, as opposed to her normal cheerful demeanor."
-    ""
+    "평소와 달리 무표정하고 침울하다. 원래는 항상 밝은데."
 
 # game/game_script.rpy:743
 translate ko game_script_863680b0:
 
     # mc "I mean yeah, I suppose..."
-    mc ""
+    mc "어, 그래... 괜찮아..."
 
 # game/game_script.rpy:745
 translate ko game_script_729bce31:
 
     # m "You want to head out into the hall or..?"
-    m ""
+    m "복도에서 얘기할래, 아니면...?"
 
 # game/game_script.rpy:748
 translate ko game_script_cf9b21ae:
 
     # "Somehow the prospect of being in a hallway where others could hear is not ideal."
-    ""
+    "복도에서 남들 다 들을까 봐 별로 내키지 않는다."
 
 # game/game_script.rpy:749
 translate ko game_script_825a7a26:
 
     # "But now I have to explain in front of both Monika {i}and{/i} Yuri."
-    ""
+    "근데 이제 모니카랑 {i}유리{/i} 앞에서 다 설명해야 한다."
 
 # game/game_script.rpy:750
 translate ko game_script_a4a42fdc:
 
     # "Great."
-    ""
+    "아, 진짜."
 
 # game/game_script.rpy:753
 translate ko game_script_d453351e:
