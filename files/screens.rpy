@@ -184,5 +184,4 @@ translate ko strings:
 
     # game/screens.rpy:473
     old "Credits"
-    new ""
-    
+    new "크레딧"
