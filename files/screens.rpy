@@ -178,3 +178,11 @@ translate ko strings:
     old "Please enter your name"
     new "이름을 입력하세요"
 
+# TODO: Translation updated at 2025-07-15 18:33
+
+translate ko strings:
+
+    # game/screens.rpy:473
+    old "Credits"
+    new ""
+    
